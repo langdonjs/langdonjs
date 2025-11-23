@@ -71,12 +71,6 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=langdonjs&show_icons=true&theme=transparent"
-    alt="Langdon's GitHub stats"
-    height="180"
-  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=langdonjs&layout=compact&theme=transparent"
     alt="Top languages"
