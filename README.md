@@ -1,111 +1,86 @@
 <!-- Banner / header -->
-<h1 align="center">hey, I'm Langdon 👋</h1>
+<h1 align="center">hey, I'm Langdon</h1>
 
 <p align="center">
-  <b>Full-Stack adn ML//AI Developer · CS + Applied Math @ UC Berkeley</b>
+  Full-Stack and ML/AI Developer · CS + Applied Math @ UC Berkeley
 </p>
 
+---
 
-### About me
+### About Me
 
-- 📍 Undergraduate at **UC Berkeley**, double majoring in **Computer Science** + **Applied Math**
-- 🧠 I build **full-stack web apps**, **mobile apps**, and **AI-powered tools**
-- 🤖 Passionate about using **machine learning** and mathematical rigor to solve real problems  
-- 📱 I like working on social platforms, event tools, and projects that feel *actually* useful
-- 🚀 Always learning, always building
+- Sophomore at UC Berkeley studying Computer Science and Applied Mathematics  
+- Building full stack web apps, mobile apps, and AI powered tools  
+- Interested in advanced machine learning, data driven products, and scalable backends  
+- Involved in engineering and product communities on campus  
 
 ---
 
-### 🌟 Featured projects
+### Featured Projects
 
-- ⚽ **Premier League Match Predictor**  
-  Trained supervised models (Random Forest, MLP, Decision Tree) on 380 matches from the 2021–22 Premier League season, reaching **61.5% accuracy** vs a 33% baseline. Engineered features like team form, recent goal differential, and live table position.  
-  _Python · scikit-learn · pandas_
-
-- 💸 **Stock Market Sentiment Analysis**  
-  Fine-tuned a **BERT** model on 10,000 finance-related tweets to classify sentiment (positive / neutral / negative) toward market direction, reaching **~85% accuracy** with strong F1 and recall. Built an NLP preprocessing pipeline and evaluated multiple checkpoints.  
-  _PyTorch · Hugging Face · BERT · pandas_
-
-- 📅 **Campus Event Aggregator**  
-  Full-stack project to collect and surface UC Berkeley events (clubs, concerts, talks, etc.) in one place. Uses Supabase, scraping, and a simple ranking layer to make it easier for students to figure out what’s happening on campus.  
-  _Next.js · TypeScript · Supabase · Tailwind CSS_
-
-- 📱 **AvoSpace (Social App)**  
-  Mobile social app with profiles and posts, built with React Native (Expo) and a Supabase backend. Focused on clean UX, auth flows, and shipping something that friends can actually use.  
-  _React Native (Expo) · TypeScript · Supabase_
-
-<!-- Optional: link each bullet to repos when they're public -->
+- [Premier League Match Predictor](https://github.com/langdonjs/premier-league-ml) – machine learning for soccer match outcomes  
+- [Stock Market Sentiment Analysis](https://github.com/langdonjs/finance-sentiment-bert) – finance tweet sentiment with BERT  
+- [Campus Event Aggregator](https://github.com/langdonjs/campus-event-aggregator) – hub for UC Berkeley events  
+- [AvoSpace](https://github.com/langdonjs/avospace) – social mobile app for sharing posts  
 
 ---
 
-### 🛠 Tech I use
+### Technologies I Use
 
-**Languages**  
-`Python` · `TypeScript` · `JavaScript` · `Java` · `SQL` · `Swift` · `C++` · `C` · `HTML` · `CSS`
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-**Web / Mobile**  
-`React` · `Next.js` · `React Native (Expo)` · `Tailwind CSS` · `Node.js`
+<p align="center">
+  <!-- Web / Mobile -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-**ML / Data**  
-`PyTorch` · `scikit-learn` · `Hugging Face` · `pandas` · `NumPy` · `Jupyter`
+<p align="center">
+  <!-- ML / Data -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-**Systems / Tools**  
-`Linux` · `Git & GitHub` · `Supabase` · `Firebase / Firestore & Auth` · `Vercel` · `Figma`
+<p align="center">
+  <!-- Systems / Tools -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 🏫 Experience & involvement
-
-- 💻 **Berkeley Codeology** – project-based web dev + software engineering club  
-- 📱 **Mobile Developers at Berkeley (MDB)** – building mobile apps with React Native  
-- 🌱 **C.O.D.E. Jumpstart / MPS Scholars** – early CS / math enrichment & mentorship  
-- 🚀 **Berkeley SkyDeck** – exposure to startups and the Berkeley founder ecosystem
-
----
-
-### 📚 Currently learning
-
-- Data structures, algorithms, and interpreters  
-- Better backend patterns (APIs, auth, databases, Supabase in production-ish setups)  
-- UI/UX and design systems so my apps don’t look like homework
-
----
-
-### 🌱 Outside of code
-
-- ⚽ Playing and watching soccer  
-- 🃏 Poker, golf, snowboarding, and random sidequests with friends  
-- 🎬 Video editing + YouTube  
-- 🍜 Always down to explore new food spots
-
----
-
-### 📊 GitHub stats
+### GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=langdonhuynh&show_icons=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=langdonjs&show_icons=true&theme=transparent"
     alt="Langdon's GitHub stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=langdonhuynh&layout=compact&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=langdonjs&layout=compact&theme=transparent"
     alt="Top languages"
   />
-</p>
-
----
-
-### 📫 Reach me
-
-- Portfolio: **[langdonhuynh.com](https://langdonhuynh.com)**
-- Email: **[langdon@berkeley.edu](mailto:langdon@berkeley.edu)**
-- LinkedIn: **[linkedin.com/in/langdonhuynh](https://www.linkedin.com/in/langdonhuynh)**
-
----
-
-<p align="center">
-  <sub>always down to chat about apps, ML, quant, or soccer 🐻</sub>
 </p>
