@@ -9,10 +9,10 @@
 
 ### About Me
 
-- Sophomore at UC Berkeley studying Computer Science and Applied Mathematics  
+- Student at UC Berkeley studying Computer Science and Applied Mathematics  
 - Building full stack web apps, mobile apps, and AI powered tools  
 - Interested in advanced machine learning, data driven products, and scalable backends  
-- Involved in engineering and product communities on campus  
+- Building tech for Berkeley Codeology and Mobile Developers of Berkeley  
 
 ---
 
