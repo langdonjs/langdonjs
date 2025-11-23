@@ -1,5 +1,5 @@
 <!-- Banner / header -->
-<h1 align="center">hey, I'm Langdon</h1>
+<h1 align="center">hi, i'm langdon!</h1>
 
 <p align="center">
   <b>Full-Stack and ML/AI Developer · CS + Applied Math @ UC Berkeley</b>
