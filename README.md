@@ -2,18 +2,11 @@
 <h1 align="center">hey, I'm Langdon 👋</h1>
 
 <p align="center">
-  <b>ML Enthusiast · CS + Applied Math @ UC Berkeley</b>
+  <b>Full-Stack adn ML//AI Developer · CS + Applied Math @ UC Berkeley</b>
 </p>
 
-<p align="center">
-  <a href="https://langdonhuynh.com" target="_blank">🌐 portfolio</a> ·
-  <a href="mailto:langdon@berkeley.edu">📧 email</a> ·
-  <a href="https://www.linkedin.com/in/langdonhuynh" target="_blank">💼 LinkedIn</a>
-</p>
 
----
-
-### 🧑‍💻 About me
+### About me
 
 - 📍 Undergraduate at **UC Berkeley**, double majoring in **Computer Science** + **Applied Math**
 - 🧠 I build **full-stack web apps**, **mobile apps**, and **AI-powered tools**
