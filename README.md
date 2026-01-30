@@ -12,7 +12,6 @@
 - Student at UC Berkeley studying Computer Science and Applied Mathematics  
 - Building full stack web apps, mobile apps, and AI powered tools  
 - Interested in advanced machine learning, data driven products, and scalable backends  
-- Developer for Berkeley Codeology and Mobile Developers of Berkeley  
 
 ---
 
