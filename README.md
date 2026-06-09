@@ -1,26 +1,44 @@
-<!-- Banner / header -->
-<h1 align="center">Hi, I'm langdon!</h1>
+<!-- Banner -->
+<h1 align="center">Hi, I'm Langdon!</h1>
 
 <p align="center">
-  <b>Full-Stack and ML/AI Developer · CS + Applied Math @ UC Berkeley</b>
+  <b>CS + Applied Math @ UC Berkeley &nbsp;·&nbsp; AI/ML + Full Stack Developer</b>
 </p>
 
 ---
 
-### About Me
+### Experience
 
-- Student at UC Berkeley studying Computer Science and Applied Mathematics  
-- Building full stack web apps, mobile apps, and AI powered tools  
-- Interested in advanced machine learning, data driven products, and scalable backends  
+**Looq AI — Perception Software Engineering Intern** *(Summer 2026, current)*
+Building a 3D infrastructure mapping system using ORB-SLAM3, multi-camera footage, and IMU/GPS data to reconstruct real-world environments at scale.
+
+**Perceive AI — Machine Learning Engineering Intern** *(Spring 2026)*
+Built end-to-end object detection pipelines for grocery SKU recognition, running 15+ experiments and designing active learning systems that reduced labeling needs by 25% across 8,000+ unlabeled frames.
+
+**BlueRobins — Full Stack Software Engineering Intern** *(Summer 2025)*
+Built full-stack features across scheduling, messaging, and dashboard workflows in Next.js, TypeScript, Supabase, FastAPI, and Flask for 500+ users, and engineered a webhook-driven backend integrating Stripe and Google Calendar to automate 100+ sessions.
+
+**SUR — Lead Full Stack Mobile Developer** *(Fall 2024)*
+Rebuilt the vehicle availability system from 35,600 daily records across 100 vehicles into a clean two-table range model, and built SQL functions for calendar search, date-filtered vehicle lookup, and checkout payment validation.
 
 ---
 
-### Featured Projects
+### What I've Shipped
 
-- [Premier League Match Predictor](https://github.com/langdonjs/premier-league-ml) – machine learning for soccer match outcomes  
-- [Stock Market Sentiment Analysis](https://github.com/langdonjs/finance-sentiment-bert) – finance tweet sentiment with BERT  
-- [Campus Event Aggregator](https://github.com/langdonjs/campus-event-aggregator) – hub for UC Berkeley events  
-- [AvoSpace](https://github.com/langdonjs/avospace) – social mobile app for sharing posts  
+**[Clash3D](https://github.com/langdonjs/Clash3D)** — *Python, YOLO, ByteTrack, Blender*
+A computer vision pipeline that reconstructs 2D Clash Royale screen recordings into animated 3D arena replays. Fine-tuned YOLO + ByteTrack on gameplay footage to track and classify each troop's position and identity, then rendered per-troop keyframed 3D animations in Blender via Python.
+
+**[RedForce](https://github.com/langdonjs/RedForce)** — *Perplexity Hackathon · React, Express, TypeScript, SQLite*
+A multi-agent AI security assessment tool that runs a staged adversarial attack pipeline against AI-powered products — recon, prompt extraction, data exfiltration, and privilege escalation. Streams live agent activity to a dashboard and generates an executive report with evidence and remediation steps.
+
+**[English-Premier-League-Match-Predictor](https://github.com/langdonjs/English-Premier-League-Match-Predictor)** — *Python, scikit-learn, pandas*
+Trained Random Forest, MLP, and Decision Tree models on engineered match-level features to predict Premier League outcomes across a full 380-game season, achieving 61.5% accuracy against a 33% baseline.
+
+**[Mocha](https://github.com/langdonjs/Mocha)** — *JavaScript, Chrome Extensions API*
+A Chrome extension for tracking study sessions. Lets students log and monitor focused work time directly from their browser, keeping a running record of sessions over time.
+
+**[AvoSpace](https://github.com/langdonjs/avospace)** — *TypeScript, React*
+A social media website where users can create profiles, post content, and browse a feed — a full-stack social platform built from scratch.
 
 ---
 
@@ -56,13 +74,13 @@
 </p>
 
 <p align="center">
-  Systems / Tools<br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  Backend / Infra<br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -70,9 +88,8 @@
 
 ### GitHub Stats
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=langdonjs&layout=compact&theme=transparent"
-    alt="Top languages"
-    height="180"
-  />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=langdonjs&layout=compact&theme=transparent"
+  alt="Top languages"
+  height="180"
+/>
