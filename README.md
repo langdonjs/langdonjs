@@ -92,8 +92,4 @@ A social media website where users can create profiles, post content, and browse
 
 ### GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=langdonjs&layout=compact&theme=transparent"
-  alt="Top languages"
-  height="180"
-/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=langdonjs&layout=compact&theme=transparent)
