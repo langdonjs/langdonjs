@@ -7,10 +7,10 @@
 
 ---
 
-### Experience
+### Work Experience
 
 **Looq AI — Perception Software Engineering Intern** *(Summer 2026, current)*
-Building a 3D infrastructure mapping system using ORB-SLAM3, multi-camera footage, and IMU/GPS data to reconstruct real-world environments at scale.
+Building a 3D infrastructure mapping system to reconstruct real-world environments and give live feedback.
 
 **Perceive AI — Machine Learning Engineering Intern** *(Spring 2026)*
 Built end-to-end object detection pipelines for grocery SKU recognition, running 15+ experiments and designing active learning systems that reduced labeling needs by 25% across 8,000+ unlabeled frames.
