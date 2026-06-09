@@ -9,16 +9,20 @@
 
 ### Work Experience
 
-**Looq AI — Perception Software Engineering Intern** *(Summer 2026, current)*  
+**Looq AI**  
+Perception Software Engineering Intern** *(Summer 2026, current)*  
 Building a 3D infrastructure mapping system to reconstruct real-world environments and give live feedback.
 
-**Perceive AI — Machine Learning Engineering Intern** *(Spring 2026)*  
+**Perceive AI  
+Machine Learning Engineering Intern** *(Spring 2026)*  
 Built end-to-end object detection pipelines for grocery SKU recognition, running 15+ experiments and designing active learning systems that reduced labeling needs by 25% across 8,000+ unlabeled frames.
 
-**BlueRobins — Full Stack Software Engineering Intern** *(Summer 2025)*  
+**BlueRobins  
+Full Stack Software Engineering Intern** *(Summer 2025)*  
 Built full-stack features across scheduling, messaging, and dashboard workflows in Next.js, TypeScript, Supabase, FastAPI, and Flask for 500+ users, and engineered a webhook-driven backend integrating Stripe and Google Calendar to automate 100+ sessions.
 
-**SUR — Lead Full Stack Mobile Developer** *(Fall 2024)*  
+**SUR  
+Lead Full Stack Mobile Developer** *(Fall 2024)*  
 Rebuilt the vehicle availability system from 35,600 daily records across 100 vehicles into a clean two-table range model, and built SQL functions for calendar search, date-filtered vehicle lookup, and checkout payment validation.
 
 ---
