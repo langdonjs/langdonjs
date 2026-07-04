@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Langdon!</h1>
 
 <p align="center">
-  <b>CS + Applied Math @ UC Berkeley &nbsp;·&nbsp; AI/ML + Full Stack Developer</b>
+  <b>CS + Applied Math @ UC Berkeley &nbsp;·&nbsp;</b>
 </p>
 
 ---
