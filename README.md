@@ -22,7 +22,7 @@ Built end-to-end object detection pipelines for grocery SKU recognition, running
 Built full-stack features across scheduling, messaging, and dashboard workflows in Next.js, TypeScript, Supabase, FastAPI, and Flask for 500+ users, and engineered a webhook-driven backend integrating Stripe and Google Calendar to automate 100+ sessions.
 
 **SUR** 
-*Lead Full Stack Mobile Developer (Fall 2024)*  
+*Full Stack Mobile Developer (Fall 2024)*  
 Rebuilt the vehicle availability system from 35,600 daily records across 100 vehicles into a clean two-table range model, and built SQL functions for calendar search, date-filtered vehicle lookup, and checkout payment validation.
 
 ---
